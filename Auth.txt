@@ -1,2 +1,1 @@
-DEV-36 CRUD Data Aset Infrastruktur
-Update
+Test Commit Jira
